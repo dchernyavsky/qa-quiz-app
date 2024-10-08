@@ -3,6 +3,10 @@
   font-family: Arial, sans-serif;
 }
 
+p {
+  height: 24px;
+}
+
 .quiz-container {
   width: 50%;
   margin: 20px auto;
@@ -10,6 +14,10 @@
   border: 1px solid #ccc;
   border-radius: 10px;
   background-color: #f9f9f9;
+}
+
+.options {
+  text-align: start;
 }
 
 .options label {
